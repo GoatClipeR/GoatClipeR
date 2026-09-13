@@ -2,7 +2,7 @@
 
 🎓 Étudiant-ingénieur en 5ᵉ année (bac+5, cycle ingénieur) à l'**Université Mundiapolis**, Casablanca
 🔍 Actuellement à la recherche de mon **PFE** (stage de fin d'études) en Data/IA ou développement full-stack
-💼 Précédemment : 18 semaines d'alternance chez **Industries.ma** (plateforme de recrutement marocaine), où j'ai piloté une équipe de 6 stagiaires répartis sur 3 pôles (Data/IA, Sécurité, Développement) et dirigé le pôle **Data/IA** (3 personnes) sur 3 projets IA
+💼 Précédemment : stage d'alternance chez **IndustriCom Group** (groupe média marocain — Industries.ma, Meet To Deal, Industry Job)
 📍 Basé à Casablanca, Maroc
 
 ---
