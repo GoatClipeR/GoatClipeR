@@ -34,28 +34,27 @@
 
 ### 📌 Projets phares
 
-- **ComPro** — CRM SaaS B2B pour la gestion commerciale (FastAPI + React + Supabase), développé pour IndustriCom Group.
-  [placeholder: lien repo / démo]
+- **ComPro** — CRM SaaS B2B pour la gestion commerciale (FastAPI + React + Supabase), développé pour IndustriCom Group. *(projet privé, code non public pour le moment)*
 
-- **Candy Job (Kandid)** — plateforme SaaS d'automatisation de candidatures d'emploi pour le marché français (Node.js + Supabase).
-  [placeholder: lien repo / démo]
+- **Candy Job (Kandid)** — plateforme SaaS d'automatisation de candidatures d'emploi pour le marché français (Node.js + Supabase). *(projet privé, code non public pour le moment)*
 
-- **[`Supervision Cloud AWS avec Zabbix`](https://github.com/GoatClipeR/Zabbix-supervision-aws)** — infrastructure cloud de supervision centralisée (AWS EC2/VPC, Docker, Zabbix, MariaDB) pour un parc hybride Linux/Windows.
+- **[Supervision Cloud AWS avec Zabbix](https://github.com/GoatClipeR/Zabbix-supervision-aws)** — infrastructure cloud de supervision centralisée (AWS EC2/VPC, Docker, Zabbix, MariaDB) pour un parc hybride Linux/Windows.
 
-- **[`Projet de stage PFA — Spring Boot`](https://github.com/GoatClipeR/Projet-de-stage-PFA-Spring-boot-)** — application de génération de RIB bancaire (Spring Boot + React).
+- **[Génération de RIB Bancaire — Spring Boot](https://github.com/GoatClipeR/Projet-de-stage-PFA-Spring-boot-)** — API de génération et gestion de RIB développée durant un stage chez Attijari Wafabank (Spring Boot, Spring Batch, React).
 
-- **[`MyCV App`](https://github.com/GoatClipeR/MyCV-App-)** — application mobile Flutter connectée à une API.
+- **[MyCV App](https://github.com/GoatClipeR/MyCV-App-)** — CV interactif en application mobile Flutter, avec démonstration de consommation d'API REST.
 
 - Projets académiques : modules Odoo 17 (gestion immobilière, gestion transport) avec modélisation BPMN, projets Data Mining / Machine Learning, IoT & visualisation Three.js.
-  [placeholder: liens si disponibles]
+
+---
+
+### 🏆 Quelques distinctions
+
+- 🥇 Meilleur prix Innovation + 4ᵉ place — Hackathon *Smart Wells* (préservation de l'eau), ENSA El Jadida
+- 🥉 3ᵉ place — NXP Cup (robotique embarquée), Mundiapolis
 
 ---
 
 ### 📫 Me contacter
 
-- 📧 [placeholder: email pro / contact]
-- 💼 [placeholder: LinkedIn]
-
-<!--
-### 📊 Stats GitHub (optionnel — décommente si tu veux les activer)
-![Stats GitHub](https://github-readme-stats.vercel.app/api?username=GoatClipeR&show_icons=true&theme=default)
+- 📧 bhsnmohamed@gmail.com
