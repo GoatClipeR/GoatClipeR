@@ -1,8 +1,8 @@
 # Salut, je suis Mohamed 👋
 
-🎓 Étudiant-ingénieur en dernière année (bac+5, cycle ingénieur) à l'**Université Mundiapolis**, Casablanca
-💼 Actuellement en stage de fin d'études chez **Industries.ma** (plateforme de recrutement marocaine), où je pilote une équipe de 6 stagiaires répartis sur 3 pôles (Data/IA, Sécurité, Développement)
-🧠 Je dirige plus précisément le pôle **Data/IA** (3 personnes) sur 3 projets IA
+🎓 Étudiant-ingénieur en 5ᵉ année (bac+5, cycle ingénieur) à l'**Université Mundiapolis**, Casablanca
+🔍 Actuellement à la recherche de mon **PFE** (stage de fin d'études) en Data/IA ou développement full-stack
+💼 Précédemment : 18 semaines d'alternance chez **Industries.ma** (plateforme de recrutement marocaine), où j'ai piloté une équipe de 6 stagiaires répartis sur 3 pôles (Data/IA, Sécurité, Développement) et dirigé le pôle **Data/IA** (3 personnes) sur 3 projets IA
 📍 Basé à Casablanca, Maroc
 
 ---
