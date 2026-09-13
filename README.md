@@ -1,4 +1,4 @@
-# Salut, je suis Mohamed 👋
+#  Mohamed Bouhassoune 👋
 
 🎓 Étudiant-ingénieur en 5ᵉ année (bac+5, cycle ingénieur) à l'**Université Mundiapolis**, Casablanca
 🔍 Actuellement à la recherche de mon **PFE** (stage de fin d'études) en Data/IA ou développement full-stack
